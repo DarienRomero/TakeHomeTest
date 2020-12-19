@@ -1,16 +1,13 @@
 # take_home_test
 
-A new Flutter project.
+Take Home Test
+
+This project is intended to show the git commit history of the same project
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+In order to build a debug this project, verify you have Flutter installed. Use flutter doctor and verify you have a 'check' in all items (Except maybe in a connected device item). It's also important to have Visual Studio Code installed (preferred).
 
-A few resources to get you started if this is your first Flutter project:
+The first time you open the project with Visual Studio Code it will ask you to update packages. If that alert doesn't appear, go to pubspec.yaml file and press ctrl + s in windows.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Build and test the project freely.
