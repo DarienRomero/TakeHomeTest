@@ -10,4 +10,6 @@ In order to build a debug this project, verify you have Flutter installed. Use f
 
 The first time you open the project with Visual Studio Code it will ask you to update packages. If that alert doesn't appear, go to pubspec.yaml file and press ctrl + s in windows.
 
+IMPORTANT: Replace the token with the token provided by email. The token is located in lib<services<git_service.dart<line 10
+
 Build and test the project freely.
